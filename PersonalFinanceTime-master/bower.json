@@ -1,0 +1,13 @@
+{
+  "name": "pft",
+  "main": "index.html",
+  "homepage": "https://github.com/theksheedz/PersonalFinanceTime",
+  "authors": [
+    "Kelly Sheedy (theksheedz)"
+  ],
+  "description": "Personal Finance Time",
+  "license": "",
+  "dependencies": {
+    "d3": "3.5.16"
+  }
+}
