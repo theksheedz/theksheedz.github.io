@@ -5,7 +5,7 @@
       "type": "folder"
     },
     {
-            "children": [
+      "children": [
               {
                 "name": "Intro to Health Care",
                 "type": "url",
@@ -26,34 +26,10 @@
                 "type": "url",
                 "url": "https://www.hsasearch.com/hsa-providers/all-hsa-providers/"
               }
-        ],
+      ],
       "name": "Health",
       "type": "folder"
     },
-    {
-      "children": [
-            {
-              "children": [
-                {
-                  "name": "TransUnion",
-                  "type": "url",
-                  "url": "https://www.transunion.com"
-                },
-                {
-                  "name": "Experian",
-                  "type": "url",
-                  "url": "https://www.experian.com"
-                },
-                {
-                  "name": "Equifax",
-                  "type": "url",
-                  "url": "https://www.equifax.com/personal/"
-                }
-              ],
-              "name": "Three Credit Companies",
-              "type": "folder"
-            }
-          ],
       "children": [
             {
               "children": [
@@ -266,8 +242,9 @@
       "name": "Education",
       "type": "folder"
     },
-    {
+
       "children": [
+      
         {
           "children": [
             {
@@ -285,14 +262,10 @@
               "type": "url",
               "url": "https://www.equifax.com/personal/"
             }
-          ],
-          "name": "Three Credit Companies",
-          "type": "folder"
-        }
-      ],
-      "children": [
-        {
-          "children": [
+              ],
+                "name": "Three Credit Companies",
+                "type": "folder"
+              },
             {
               "name": "FTC",
               "type": "url",
