@@ -1,6 +1,6 @@
 {
   "children": [
-  {
+    {
       "children": [
               {
                 "name": "Intro to Health Care",
@@ -24,93 +24,6 @@
               }
       ],
       "name": "Health",
-      "type": "folder"
-    },
-      "children": [
-        {
-          "children": [
-                {
-                  "name": "YouInvest",
-                  "type": "url",
-                  "url": "https://www.chase.com/personal/investments/you-invest"
-                },
-                {
-                  "name": "TD Ameritrade",
-                  "type": "url",
-                  "url": "https://www.tdameritrade.com/home.page"
-                },
-                {
-                  "name": "etrade",
-                  "type": "url",
-                  "url": "https://us.etrade.com/home"
-                },
-                {
-                  "name": "ThinkorSwim",
-                  "type": "url",
-                  "url": "https://www.thinkorswim.com/t/index.html#!/"
-                },
-                {
-                  "name": "Robinhood",
-                  "type": "url",
-                  "url": "https://robinhood.com"
-                },
-                {
-                  "name": "Scwab",
-                  "type": "url",
-                  "url": "https://www.schwab.com"
-                },
-                {
-                  "name": "Ally",
-                  "type": "url",
-                  "url": "https://www.ally.com/invest/"
-                }
-              ],
-              "name": "Places to Invest",
-              "type": "folder"
-            },
-            {
-              "children": [
-                {
-                  "name": "YouInvest",
-                  "type": "url",
-                  "url": "https://www.chase.com/personal/investments/you-invest"
-                },
-                {
-                  "name": "TD Ameritrade",
-                  "type": "url",
-                  "url": "https://www.tdameritrade.com/home.page"
-                },
-                {
-                  "name": "etrade",
-                  "type": "url",
-                  "url": "https://us.etrade.com/home"
-                },
-                {
-                  "name": "ThinkorSwim",
-                  "type": "url",
-                  "url": "https://www.thinkorswim.com/t/index.html#!/"
-                },
-                {
-                  "name": "Robinhood",
-                  "type": "url",
-                  "url": "https://robinhood.com"
-                },
-                {
-                  "name": "Scwab",
-                  "type": "url",
-                  "url": "https://www.schwab.com"
-                },
-                {
-                  "name": "Ally",
-                  "type": "url",
-                  "url": "https://www.ally.com/invest/"
-                }
-              ],
-              "name": "Investment Apps",
-              "type": "folder"
-            }
-      ],
-      "name": "Investing",
       "type": "folder"
     },
     {
@@ -275,7 +188,7 @@
       "name": "Credit",
       "type": "folder"
     }
-  }
+   }
   ],
   "name": "Personal Finance",
   "type": "folder"
