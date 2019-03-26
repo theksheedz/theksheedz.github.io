@@ -27,8 +27,8 @@
       "type": "folder"
     },
       "children": [
-            {
-              "children": [
+        {
+          "children": [
                 {
                   "name": "YouInvest",
                   "type": "url",
@@ -109,7 +109,6 @@
               "name": "Investment Apps",
               "type": "folder"
             }
-          ],
       ],
       "name": "Investing",
       "type": "folder"
