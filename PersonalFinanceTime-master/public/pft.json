@@ -1,40 +1,10 @@
 {
   "children": [
     {
-      "children": [
-          {
-            "children": [
-              {
-                "name": "Intro to Health Care",
-                "type": "url",
-                "url": "https://www.healthcare.gov"
-              },
-              {
-                "name": "Healh Insurance Programs",
-                "type": "url",
-                "url": "https://www.cms.gov/cciio/programs-and-initiatives/health-insurance-marketplaces/a-b-resources.html"
-              },
-              {
-                "name": "Bank of America (health accounts)",
-                "type": "url",
-                "url": "https://healthaccounts.bankofamerica.com/individuals-families.shtml"
-              },
-              {
-                "name": "HSA Providers (search)",
-                "type": "url",
-                "url": "https://www.hsasearch.com/hsa-providers/all-hsa-providers/"
-              }
-            ],
-            "name": "Health",
-            "type": "folder"
-          }
-        ],
       "name": "Retirement",
       "type": "folder"
     },
     {
-      "children": [
-          {
             "children": [
               {
                 "name": "Intro to Health Care",
@@ -56,12 +26,8 @@
                 "type": "url",
                 "url": "https://www.hsasearch.com/hsa-providers/all-hsa-providers/"
               }
-            ],
-            "name": "Health",
-            "type": "folder"
-          }
         ],
-      "name": "Credit",
+      "name": "Health",
       "type": "folder"
     },
     {
