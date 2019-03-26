@@ -282,6 +282,17 @@
           ],
           "name": "Free Credit Reports",
           "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "School of Wealth",
+              "type": "url",
+              "url": "https://itunes.apple.com/us/podcast/school-of-wealth/id1440526603?mt=2"
+            }
+          ],
+          "name": "Podcasts",
+          "type": "folder"
         }
       ],
       "name": "Credit",
