@@ -2,6 +2,8 @@
   "children": [
     {
       "children": [
+          {
+            "children": [
               {
                 "name": "Intro to Health Care",
                 "type": "url",
@@ -22,8 +24,155 @@
                 "type": "url",
                 "url": "https://www.hsasearch.com/hsa-providers/all-hsa-providers/"
               }
-      ],
-      "name": "Health",
+            ],
+            "name": "Health",
+            "type": "folder"
+          }
+        ],
+      "name": "Retirement",
+      "type": "folder"
+    },
+    {
+      "children": [
+          {
+            "children": [
+              {
+                "name": "Intro to Health Care",
+                "type": "url",
+                "url": "https://www.healthcare.gov"
+              },
+              {
+                "name": "Healh Insurance Programs",
+                "type": "url",
+                "url": "https://www.cms.gov/cciio/programs-and-initiatives/health-insurance-marketplaces/a-b-resources.html"
+              },
+              {
+                "name": "Bank of America (health accounts)",
+                "type": "url",
+                "url": "https://healthaccounts.bankofamerica.com/individuals-families.shtml"
+              },
+              {
+                "name": "HSA Providers (search)",
+                "type": "url",
+                "url": "https://www.hsasearch.com/hsa-providers/all-hsa-providers/"
+              }
+            ],
+            "name": "Health",
+            "type": "folder"
+          }
+        ],
+      "name": "Credit",
+      "type": "folder"
+    },
+    {
+      "children": [
+            {
+              "children": [
+                {
+                  "name": "TransUnion",
+                  "type": "url",
+                  "url": "https://www.transunion.com"
+                },
+                {
+                  "name": "Experian",
+                  "type": "url",
+                  "url": "https://www.experian.com"
+                },
+                {
+                  "name": "Equifax",
+                  "type": "url",
+                  "url": "https://www.equifax.com/personal/"
+                }
+              ],
+              "name": "Three Credit Companies",
+              "type": "folder"
+            }
+          ],
+      "children": [
+            {
+              "children": [
+                {
+                  "name": "YouInvest",
+                  "type": "url",
+                  "url": "https://www.chase.com/personal/investments/you-invest"
+                },
+                {
+                  "name": "TD Ameritrade",
+                  "type": "url",
+                  "url": "https://www.tdameritrade.com/home.page"
+                },
+                {
+                  "name": "etrade",
+                  "type": "url",
+                  "url": "https://us.etrade.com/home"
+                },
+                {
+                  "name": "ThinkorSwim",
+                  "type": "url",
+                  "url": "https://www.thinkorswim.com/t/index.html#!/"
+                },
+                {
+                  "name": "Robinhood",
+                  "type": "url",
+                  "url": "https://robinhood.com"
+                },
+                {
+                  "name": "Scwab",
+                  "type": "url",
+                  "url": "https://www.schwab.com"
+                },
+                {
+                  "name": "Ally",
+                  "type": "url",
+                  "url": "https://www.ally.com/invest/"
+                }
+              ],
+              "name": "Places to Invest",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "name": "YouInvest",
+                  "type": "url",
+                  "url": "https://www.chase.com/personal/investments/you-invest"
+                },
+                {
+                  "name": "TD Ameritrade",
+                  "type": "url",
+                  "url": "https://www.tdameritrade.com/home.page"
+                },
+                {
+                  "name": "etrade",
+                  "type": "url",
+                  "url": "https://us.etrade.com/home"
+                },
+                {
+                  "name": "ThinkorSwim",
+                  "type": "url",
+                  "url": "https://www.thinkorswim.com/t/index.html#!/"
+                },
+                {
+                  "name": "Robinhood",
+                  "type": "url",
+                  "url": "https://robinhood.com"
+                },
+                {
+                  "name": "Scwab",
+                  "type": "url",
+                  "url": "https://www.schwab.com"
+                },
+                {
+                  "name": "Ally",
+                  "type": "url",
+                  "url": "https://www.ally.com/invest/"
+                }
+              ],
+              "name": "Investment Apps",
+              "type": "folder"
+            }
+          ],
+      "name": "Investing",
       "type": "folder"
     },
     {
@@ -80,13 +229,13 @@
               "url": "https://www.collegesavings.org"
             }
           ],
-          "name": "Financial Aid",
+          "name": "Finanical Aid",
           "type": "folder"
         },
         {
           "children": [
             {
-              "name": "Introduction to 529 Plans",
+              "name": "Introducation to 529 Plans",
               "type": "url",
               "url": "https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-introduction-529-plans"
             },
@@ -112,7 +261,7 @@
         {
           "children": [
             {
-              "name": "Introduction to 529 Plans",
+              "name": "Introducation to 529 Plans",
               "type": "url",
               "url": "https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html"
             }
@@ -153,7 +302,6 @@
     },
     {
       "children": [
-      
         {
           "children": [
             {
@@ -171,10 +319,14 @@
               "type": "url",
               "url": "https://www.equifax.com/personal/"
             }
-              ],
-                "name": "Three Credit Companies",
-                "type": "folder"
-              },
+          ],
+          "name": "Three Credit Companies",
+          "type": "folder"
+        }
+      ],
+      "children": [
+        {
+          "children": [
             {
               "name": "FTC",
               "type": "url",
@@ -188,7 +340,6 @@
       "name": "Credit",
       "type": "folder"
     }
-   }
   ],
   "name": "Personal Finance",
   "type": "folder"
