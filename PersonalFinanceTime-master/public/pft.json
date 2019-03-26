@@ -171,13 +171,13 @@
               "url": "https://www.collegesavings.org"
             }
           ],
-          "name": "Finanical Aid",
+          "name": "Financial Aid",
           "type": "folder"
         },
         {
           "children": [
             {
-              "name": "Introducation to 529 Plans",
+              "name": "Introduction to 529 Plans",
               "type": "url",
               "url": "https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-introduction-529-plans"
             },
@@ -203,7 +203,7 @@
         {
           "children": [
             {
-              "name": "Introducation to 529 Plans",
+              "name": "Introduction to 529 Plans",
               "type": "url",
               "url": "https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html"
             }
