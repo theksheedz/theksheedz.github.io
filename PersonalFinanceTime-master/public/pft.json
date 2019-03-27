@@ -293,6 +293,55 @@
           ],
           "name": "Podcasts",
           "type": "folder"
+        },
+                {
+          "children": [
+            {
+              "name": "Fair Credit Reporting Act",
+              "type": "url",
+              "url": "https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/fair-credit-reporting-act"
+            },
+            {
+              "name": "Four Important Consumer Credit Protection laws",
+              "type": "url",
+              "url": "https://www.myfico.com/credit-education/know-your-rights"
+            }
+          ],
+          "name": "Known Your Rights",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "What is Prescreened Credit and Insurance Offers?",
+              "type": "url",
+              "url": "https://www.consumer.ftc.gov/articles/0148-prescreened-credit-and-insurance-offers"
+            }
+          ],
+          "name": "Prescreened Credit and Insurance Offers",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Free Credit Freezes",
+              "type": "url",
+              "url": "https://www.consumer.ftc.gov/blog/2018/09/free-credit-freezes-are-here"
+            }
+          ],
+          "name": "Credit Freezes",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Credit Score Versions Summary",
+              "type": "url",
+              "url": "https://www.myfico.com/credit-education/credit-scores/fico-score-versions"
+            }
+          ],
+          "name": "Credit Score Versions",
+          "type": "folder"
         }
       ],
       "name": "Credit",
