@@ -74,6 +74,11 @@
                   "name": "Ally",
                   "type": "url",
                   "url": "https://www.ally.com/invest/"
+                },
+                {
+                  "name": "Fidelity",
+                  "type": "url",
+                  "url": "https://www.fidelity.com"
                 }
               ],
               "name": "Places to Invest",
