@@ -19,14 +19,24 @@
                 "url": "https://www.cms.gov/cciio/programs-and-initiatives/health-insurance-marketplaces/a-b-resources.html"
               },
               {
-                "name": "Bank of America (health accounts)",
-                "type": "url",
-                "url": "https://healthaccounts.bankofamerica.com/individuals-families.shtml"
-              },
-              {
                 "name": "HSA Providers (search)",
                 "type": "url",
                 "url": "https://www.hsasearch.com/hsa-providers/all-hsa-providers/"
+              },
+                            {
+                "name": "HSA Providers (HSA)",
+                "type": "url",
+                "url": "https://en.wikipedia.org/wiki/Health_savings_account"
+              },
+              {
+                "name": "Flexible Spending Account",
+                "type": "url",
+                "url": "https://en.wikipedia.org/wiki/Flexible_spending_account"
+              },
+              {
+                "name": "Limited Purpose FSA",
+                "type": "url",
+                "url": "https://www.investopedia.com/articles/personal-finance/012016/how-use-limited-purpose-fsa.asp"
               }
             ],
             "name": "Health",
