@@ -117,6 +117,87 @@
                   "url": "https://www.ally.com/invest/"
                 }
               ],
+              "name": "Places to Invest",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "name": "M1 Finance",
+                  "type": "url",
+                  "url": "https://www.m1finance.com"
+                },
+                {
+                  "name": "Acorns",
+                  "type": "url",
+                  "url": "https://www.acorns.com"
+                },
+                {
+                  "name": "Stockpile",
+                  "type": "url",
+                  "url": "https://www.stockpile.com"
+                },
+                {
+                  "name": "Stash",
+                  "type": "url",
+                  "url": "https://www.stashinvest.com"
+                },
+                {
+                  "name": "Learn",
+                  "type": "url",
+                  "url": "https://learnapp.co/home"
+                },
+                {
+                  "name": "Stocktwits",
+                  "type": "url",
+                  "url": "https://stocktwits.com"
+                },
+                {
+                  "name": "Yahoo Finance",
+                  "type": "url",
+                  "url": "https://finance.yahoo.com"
+                },
+                {
+                  "name": "Personal Capital",
+                  "type": "url",
+                  "url": "https://www.personalcapital.com"
+                },
+                {
+                  "name": "Coinbase",
+                  "type": "url",
+                  "url": "https://www.coinbase.com"
+                },
+                {
+                  "name": "TD Ameritrade",
+                  "type": "url",
+                  "url": "https://www.tdameritrade.com/home.page"
+                },
+                {
+                  "name": "Investing.com",
+                  "type": "url",
+                  "url": "https://www.investing.com"
+                },
+                {
+                  "name": "SIGFIG",
+                  "type": "url",
+                  "url": "https://www.sigfig.com/site/#/home/am"
+                },
+                {
+                  "name": "Robinhood",
+                  "type": "url",
+                  "url": "https://robinhood.com"
+                },
+                {
+                  "name": "Seeking Aplha",
+                  "type": "url",
+                  "url": "https://seekingalpha.com"
+                },
+                {
+                  "name": "Market Watch",
+                  "type": "url",
+                  "url": "https://www.marketwatch.com"
+                }
+              ],
               "name": "Investment Apps",
               "type": "folder"
             }
