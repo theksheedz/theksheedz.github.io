@@ -480,16 +480,22 @@
       "type": "folder"
     },
     {
-      "children": [
-        {
-          "name": "Unclaimed Funds,
-          "type": "url",
-          "url": "https://www.com.ohio.gov/unfd/"
-        }
-      ],
+          "children": [
+          {
+            "children": [
+              {
+                "name": "Unclaimed Funds",
+                "type": "url",
+                "url": "https://www.com.ohio.gov/unfd/"
+              }
+            ],
+            "name": "Small Business",
+            "type": "folder"
+          }
+        ],
       "name": "Small Business",
       "type": "folder"
-    }
+    },
   ],
   "name": "Personal Finance",
   "type": "folder"
