@@ -355,12 +355,12 @@
             {
               "name": "Ladies Storm Hackathons - GHC Scholarships",
               "type": "url",
-              "url": "https://github.com/fvcproductions/diversify-me"
+              "url": "https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships"
             },
             {
               "name": "Diversify Me",
               "type": "url",
-              "url": "https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships"
+              "url": "https://github.com/fvcproductions/diversify-me"
             }
           ],
           "name": "Women in Computing",
@@ -477,6 +477,17 @@
         }
       ],
       "name": "Credit",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Unclaimed Funds,
+          "type": "url",
+          "url": "https://www.com.ohio.gov/unfd/"
+        }
+      ],
+      "name": "Small Business",
       "type": "folder"
     }
   ],
